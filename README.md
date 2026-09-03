@@ -38,7 +38,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 ### Frontend
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,nextjs,react,js,tailwind,bootstrap&perline=7" />
 
@@ -46,7 +46,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 ### Backend & Database
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgresql&perline=4" />
 
@@ -54,7 +54,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 ### Tools
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&perline=5" />
 
@@ -166,11 +166,11 @@ Check out my repositories to explore more projects, experiments, and learning pr
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FawwazCode&theme=minimal&hide_border=true&area=true" width="95%" />
+<img src="https://raw.githubusercontent.com/FawwazCode/FawwazCode/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
