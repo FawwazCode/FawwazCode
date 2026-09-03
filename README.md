@@ -38,7 +38,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 ### Frontend
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,nextjs,react,js,tailwind,bootstrap&perline=7" />
 
