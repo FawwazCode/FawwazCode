@@ -95,7 +95,7 @@ Modern e-commerce application built with Next.js and Tailwind CSS.
 
 **Stack**
 
-`Next.js` `React` `Tailwind CSS`
+`Next.js` `React` `Tailwind CSS` `PostgreSQL`
 
 </td>
 
@@ -121,7 +121,7 @@ Modern digital service landing page focused on clean UI and responsive design.
 
 **Stack**
 
-`Next.js` `React` `Tailwind CSS`
+`Next.js` `Tailwind CSS`
 
 </td>
 
