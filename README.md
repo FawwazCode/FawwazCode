@@ -9,14 +9,13 @@ and database-driven workflows.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-FawwazCode-181717?style=for-the-badge\&logo=github)](https://github.com/FawwazCode)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-fwzzz_x23-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fwzzz_x23)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-xinren_dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xinren_dev)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fawwaz%20Hirogest%20Putra%20Andaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawwaz-hirogest-putra-andaya/)
-
+[![GitHub](https://img.shields.io/badge/GitHub-FawwazCode-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/FawwazCode)
+ 
+[![Instagram](https://img.shields.io/badge/Instagram-fwzzz__x23-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/fwzzz_x23)
+ 
+[![Instagram](https://img.shields.io/badge/Instagram-xinren__dev-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/xinren_dev)
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fawwaz%20Hirogest%20Putra%20Andaya-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fawwaz-hirogest-putra-andaya/)
 
 </div>
 
@@ -39,21 +38,27 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,nextjs,react,js,tailwind,bootstrap" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,nextjs,react,js,tailwind,bootstrap&perline=7" />
+
+</div>
 
 ### Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgresql" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgresql&perline=4" />
+
+</div>
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&perline=5" />
+
+</div>
 
 ---
 
@@ -61,9 +66,17 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=FawwazCode&show_icons=true&hide_border=true&theme=transparent" height="170" />
+<a href="https://github.com/FawwazCode">
 
-<img src="https://streak-stats.demolab.com?user=FawwazCode&theme=transparent&hide_border=true" height="170" />
+<img src="https://github-stats-extended.vercel.app/api?username=FawwazCode&show_icons=true&hide_border=true&theme=transparent" width="49%" />
+
+</a>
+
+<a href="https://github.com/FawwazCode">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FawwazCode&layout=compact&hide_border=true&theme=transparent" width="49%" />
+
+</a>
 
 </div>
 
@@ -73,7 +86,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=FawwazCode&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=FawwazCode&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
 
 </div>
 
@@ -119,9 +132,9 @@ A modern digital service landing page designed to showcase web development servi
 
 ### 🔎 More Projects
 
-Check out my repositories to explore more of my projects, experiments, and learning journey.
+Check out my repositories to explore more projects, experiments, and learning projects.
 
-**→ Explore my repositories**
+**→ [Explore Repositories](https://github.com/FawwazCode?tab=repositories)**
 
 </td>
 </tr>
@@ -131,21 +144,23 @@ Check out my repositories to explore more of my projects, experiments, and learn
 
 ## 🌱 Currently Learning
 
-```text
-Advanced Laravel & REST API
-        ↓
-Next.js & React
-        ↓
-PostgreSQL
-        ↓
-Linux & Server Administration
-        ↓
-Docker
-        ↓
-Cloud Deployment
-        ↓
-Software Architecture
-```
+<div align="center">
+
+**Laravel & REST API**
+↓
+**Next.js & React**
+↓
+**PostgreSQL**
+↓
+**Linux & Server Administration**
+↓
+**Docker**
+↓
+**Cloud Deployment**
+↓
+**Software Architecture**
+
+</div>
 
 ---
 
@@ -153,7 +168,7 @@ Software Architecture
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FawwazCode&theme=minimal&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FawwazCode&theme=minimal&hide_border=true&area=true" width="95%" />
 
 </div>
 
