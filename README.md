@@ -33,7 +33,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,nextjs,react,js,tailwind,bootstrap" />
 </p>
 
 ### Backend & Database
@@ -45,7 +45,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
 </p>
 
 ---
