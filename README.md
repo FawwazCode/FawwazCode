@@ -82,11 +82,13 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=FawwazCode&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
+| 📦 Repositories | ⭐ Stars | 👥 Followers | 🔥 Contributions |
+|:---:|:---:|:---:|:---:|
+| [View Repositories](https://github.com/FawwazCode?tab=repositories) | [View Stars](https://github.com/FawwazCode?tab=stars) | [View Followers](https://github.com/FawwazCode?tab=followers) | [View Contributions](https://github.com/FawwazCode) |
 
 </div>
 
