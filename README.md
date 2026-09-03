@@ -4,70 +4,47 @@
 
 ### Junior Full Stack Developer
 
-Building modern web applications with clean interfaces, reliable backends,
-and database-driven systems.
+I build modern web applications with clean UI, reliable backend systems,
+and database-driven workflows.
 
-<p>
-  <a href="https://github.com/FawwazCode">
-    <img src="https://img.shields.io/github/followers/FawwazCode?label=Followers&style=flat-square" />
-  </a>
-  <a href="https://github.com/FawwazCode?tab=repositories">
-    <img src="https://img.shields.io/github/stars/FawwazCode?label=Stars&style=flat-square" />
-  </a>
-</p>
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-FawwazCode-181717?style=for-the-badge\&logo=github)](https://github.com/FawwazCode)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 💻 About Me
 
-- 💻 Junior Full Stack Developer focused on web development
-- ⚡ Building applications with **Next.js, React, Laravel, and PHP**
-- 🗄️ Experienced with relational databases such as **MySQL & PostgreSQL**
-- 🔌 Working with **REST APIs, authentication, and database-driven applications**
-- 🌱 Currently improving my skills in **Linux, Docker, Cloud, and Software Architecture**
-- 🎯 Interested in building scalable and user-friendly digital solutions
+I'm a Junior Full Stack Developer focused on building modern and user-friendly web applications.
+
+* ⚡ Building with **Next.js, React, Laravel & PHP**
+* 🔌 Working with **REST APIs & Authentication**
+* 🗄️ Working with **MySQL & PostgreSQL**
+* 🎨 Creating responsive interfaces with **Tailwind CSS & Bootstrap**
+* 🐧 Exploring **Linux, Docker & Cloud Deployment**
+* 🎯 Interested in scalable and maintainable software architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,tailwind,bootstrap" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgresql" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FawwazCode&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FawwazCode&hide_border=true&theme=transparent" height="170" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,laravel,php,js,tailwind,bootstrap,mysql,postgresql,git,github,figma,vscode,linux&perline=7" />
 
 </div>
 
-<br>
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawwazCode&layout=compact&hide_border=true&theme=transparent" height="170" />
+<img src="https://github-stats-extended.vercel.app/api?username=FawwazCode&show_icons=true&hide_border=true&theme=transparent" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=FawwazCode&theme=transparent&hide_border=true" height="170" />
 
 </div>
 
@@ -83,7 +60,7 @@ and database-driven systems.
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -91,11 +68,9 @@ and database-driven systems.
 
 ### 🛒 Nexora
 
-Modern e-commerce application built with Next.js and Tailwind CSS.
+A modern e-commerce application focused on a clean interface, responsive design, and smooth user experience.
 
-**Stack**
-
-`Next.js` `React` `Tailwind CSS` `PostgreSQL`
+**Next.js · React · Tailwind CSS**
 
 </td>
 
@@ -103,11 +78,9 @@ Modern e-commerce application built with Next.js and Tailwind CSS.
 
 ### 💳 Fintech School
 
-Canteen management system with role-based workflows and transaction management.
+A canteen management system featuring role-based workflows, balance management, transactions, and seller management.
 
-**Stack**
-
-`Laravel` `PHP` `Blade` `Bootstrap` `MySQL`
+**Laravel · PHP · Blade · Bootstrap · MySQL**
 
 </td>
 </tr>
@@ -117,21 +90,19 @@ Canteen management system with role-based workflows and transaction management.
 
 ### 🌐 Xinren Dev
 
-Modern digital service landing page focused on clean UI and responsive design.
+A modern digital service landing page designed to showcase web development services with a clean and responsive interface.
 
-**Stack**
-
-`Next.js` `Tailwind CSS`
+**Next.js · React · Tailwind CSS**
 
 </td>
 
 <td width="50%">
 
-### 📌 More Projects
+### 🔎 More Projects
 
-Explore my repositories to see more of my experiments, learning projects, and applications.
+Check out my repositories to explore more of my projects, experiments, and learning journey.
 
-**Explore →**
+**→ Explore my repositories**
 
 </td>
 </tr>
@@ -142,16 +113,35 @@ Explore my repositories to see more of my experiments, learning projects, and ap
 ## 🌱 Currently Learning
 
 ```text
-Laravel & REST API
+Advanced Laravel & REST API
         ↓
 Next.js & React
         ↓
 PostgreSQL
         ↓
-Linux & Server
+Linux & Server Administration
         ↓
 Docker
         ↓
-Cloud & Deployment
+Cloud Deployment
         ↓
 Software Architecture
+```
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FawwazCode&theme=minimal&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building, learning, and improving one project at a time.
+
+</div>
