@@ -45,7 +45,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
 ---
