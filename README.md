@@ -10,6 +10,8 @@ and database-driven workflows.
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-FawwazCode-181717?style=for-the-badge\&logo=github)](https://github.com/FawwazCode)
+[![Instagram](https://img.shields.io/badge/Instagram-fwzzz_x23-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fwzzz_x23)
+
 
 </div>
 
