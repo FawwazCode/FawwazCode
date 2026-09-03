@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Fawwaz
+# 👋 Hi, I'm Fawwaz Hirogest Putra Andaya 
 
 ### Junior Full Stack Developer
 
@@ -38,7 +38,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 ### Frontend
 
-<div align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,nextjs,react,js,tailwind,bootstrap&perline=7" />
 
@@ -46,7 +46,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 ### Backend & Database
 
-<div align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgresql&perline=4" />
 
@@ -54,7 +54,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 ### Tools
 
-<div align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&perline=5" />
 
