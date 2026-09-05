@@ -36,29 +36,9 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind,bootstrap&perline=7" />
-
-</div>
-
-### Backend & Database
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgresql,mongo,supabase&perline=6" />
-
-</div>
-
-### Tools
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,ubuntu,linux,docker&perline=8" />
-
-</div>
 
 ---
 
