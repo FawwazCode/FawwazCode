@@ -104,7 +104,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 A modern e-commerce application focused on a clean interface, responsive design, and smooth user experience.
 
-**Next.js · React · Tailwind CSS**
+**Next.js · React · Tailwind CSS · PostgreSQL**
 
 </td>
 
