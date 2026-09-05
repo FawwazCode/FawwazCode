@@ -56,7 +56,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,ubuntu&perline=6" />
 
 </div>
 
