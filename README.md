@@ -48,7 +48,7 @@ I'm a Junior Full Stack Developer focused on building modern and user-friendly w
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgresql,mongo,node,golang,supabase&perline=8" />
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgresql,mongo,nodejs,golang,supabase&perline=8" />
 
 </div>
 
