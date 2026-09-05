@@ -167,14 +167,6 @@ Check out my repositories to explore more projects, experiments, and learning pr
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/FawwazCode/FawwazCode/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
 ---
 
 <div align="center">
