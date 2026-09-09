@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Fawwaz Hirogest Putra Andaya 
 
-### Junior Full Stack Developer
+### Full Stack Developer
 
 I build modern web applications with clean UI, reliable backend systems,
 and database-driven workflows.
